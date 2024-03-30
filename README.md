@@ -1,4 +1,4 @@
-1.Valid Parentheses :
+1. Valid Parentheses :
 
 This program checks whether a given string of parentheses is valid or not. The program uses a while loop to maintain the balance of parentheses.The program prompts the user to enter a string of parentheses. After inputting the string, the program will output whether the parentheses are valid or not.
 
@@ -8,7 +8,7 @@ The algorithm uses a while loop to check for valid parentheses. It checks each c
 
 
 
-2.Inheritance:
+2. Inheritance:
 Inheritance in OOP is a mechanism by which a new class called a subclass is created based on a superclass or base class. The subclass inherits attributes and methods from the superclass, allowing it to reuse code and extend the functionality of the superclass.
 
 'cir ' class
@@ -26,7 +26,7 @@ area(): Calculates and returns the area of the rectangle.
 
 
 
-3.Encapsulation:
+3. Encapsulation:
 
 Encapsulation in OOP is the bundling of data and methods that operate on that data into a single unit, typically a class. Encapsulation allows for the hiding of the internal state of an object and restricting direct access to it from outside the class.
 
